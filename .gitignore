@@ -41,3 +41,13 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#去除bin文件夹 去除obj文件夹
+MyTestTcp/bin/
+MyTestTcp/obj/
+TCPClient/bin/
+TCPClient/obj/
+TCPLibrary/bin/
+TCPLibrary/obj/
+TCPServer/bin/
+TCPServer/obj/

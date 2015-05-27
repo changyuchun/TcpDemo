@@ -1,11 +1,13 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPLibrary", "TCPLibrary\TCPLibrary.csproj", "{98CEFAF6-9E78-4DC2-A0B1-69AA7F9F6E21}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPClient", "TCPClient\TCPClient.csproj", "{6D2450F1-6E43-4629-9859-506E938337FD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPServer", "TCPServer\TCPServer.csproj", "{E51A89AF-7E67-44DC-ADC9-B1AE4F1FA0B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTestTcp", "MyTestTcp\MyTestTcp.csproj", "{DBA93B82-2BCB-46E5-A89C-871B65415919}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +49,16 @@ Global
 		{E51A89AF-7E67-44DC-ADC9-B1AE4F1FA0B2}.Release|Mixed Platforms.Build.0 = Release|x86
 		{E51A89AF-7E67-44DC-ADC9-B1AE4F1FA0B2}.Release|x86.ActiveCfg = Release|x86
 		{E51A89AF-7E67-44DC-ADC9-B1AE4F1FA0B2}.Release|x86.Build.0 = Release|x86
+		{DBA93B82-2BCB-46E5-A89C-871B65415919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA93B82-2BCB-46E5-A89C-871B65415919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA93B82-2BCB-46E5-A89C-871B65415919}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{DBA93B82-2BCB-46E5-A89C-871B65415919}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{DBA93B82-2BCB-46E5-A89C-871B65415919}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DBA93B82-2BCB-46E5-A89C-871B65415919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA93B82-2BCB-46E5-A89C-871B65415919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBA93B82-2BCB-46E5-A89C-871B65415919}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{DBA93B82-2BCB-46E5-A89C-871B65415919}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{DBA93B82-2BCB-46E5-A89C-871B65415919}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
